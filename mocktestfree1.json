@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "question_hindi": "10.5 सेमी त्रिज्या वाले एक ठोस धातु के गोले को पिघलाकर छोटे शंकु बनाए जाते हैं, जिनमें से प्रत्येक की त्रिज्या 3.5 सेमी और ऊंचाई 3 सेमी है। इस प्रक्रिया में 10% धातु नष्ट हो जाती है। बनाए गए पूर्ण शंकुओं की संख्या ज्ञात कीजिए।",
+    "question_english": "A solid metallic sphere of radius 10.5 cm is melted and recast into small cones, each of radius 3.5 cm and height 3 cm. During this process, 10% of the metal is wasted. Find the number of complete cones formed.",
+    "options": {
+      "A": "113",
+      "B": "126",
+      "C": "114",
+      "D": "120"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "question_hindi": "A, B से 50% अधिक कुशल है और C, B से 20% कम कुशल है। एक साथ कार्य करते हुए, वे एक कार्य को 12 दिनों में पूरा कर सकते हैं। A और C ने 8 दिनों तक एक साथ काम किया। शेष कार्य को B अकेला कितने दिनों में पूरा करेगा?",
+    "question_english": "A is 50% more efficient than B and C is 20% less efficient than B. Working together, they can finish a task in 12 days. A and C worked together for 8 days. In how many days will B alone complete the remaining work?",
+    "options": {
+      "A": "21.2 दिन",
+      "B": "18.5 दिन",
+      "C": "24 दिन",
+      "D": "21.6 दिन"
+    },
+    "correct_option": "D"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question_hindi": "यदि x + y + z = 19, xy + yz + zx = 114 और xyz = 216 है, तो √(x³ + y³ + z³ + xyz) का मान क्या होगा?",
+    "question_english": "If x + y + z = 19, xy + yz + zx = 114 and xyz = 216, then what is the value of √(x³ + y³ + z³ + xyz)?",
+    "options": {
+      "A": "32",
+      "B": "35",
+      "C": "28",
+      "D": "38"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "topic": "Compound Interest",
+    "question_hindi": "एक निश्चित राशि पर 15% प्रति वर्ष की दर से 2 वर्ष के लिए चक्रवृद्धि ब्याज (8-मासिक रूप से संयोजित) और साधारण ब्याज के बीच का अंतर 2835 रुपये है। वह राशि कितनी है?",
+    "question_english": "The difference between the compound interest (compounded 8-monthly) and simple interest on a certain sum at 15% per annum for 2 years is Rs. 2835. What is the sum?",
+    "options": {
+      "A": "Rs. 85000",
+      "B": "Rs. 90000",
+      "C": "Rs. 95000",
+      "D": "Rs. 80000"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "question_hindi": "O केंद्र वाले एक वृत्त में, PR और QS दो जीवाएँ हैं जो वृत्त के अंदर बिंदु T पर एक दूसरे को काटती हैं। यदि ∠POS = 110° और ∠ROQ = 50° है, तो ∠PTS का मान क्या है?",
+    "question_english": "In a circle with center O, PR and QS are two chords that intersect each other at point T inside the circle. If ∠POS = 110° and ∠ROQ = 50°, then what is the value of ∠PTS?",
+    "options": {
+      "A": "100°",
+      "B": "80°",
+      "C": "70°",
+      "D": "90°"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 6,
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "question_hindi": "दी गई श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर क्या आएगा: 2, 12, 36, 80, 150, ?",
+    "question_english": "What will come in place of the question mark (?) in the given series: 2, 12, 36, 80, 150, ?",
+    "options": {
+      "A": "242",
+      "B": "252",
+      "C": "258",
+      "D": "260"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 7,
+    "subject": "Reasoning",
+    "topic": "Syllogism (Possibility)",
+    "question_hindi": "कथन: केवल कुछ नदियाँ समुद्र हैं। कोई समुद्र महासागर नहीं है। सभी महासागर झीलें हैं। \nनिष्कर्ष: I. कुछ झीलों के नदियाँ होने की संभावना है। II. कोई नदी महासागर नहीं है।",
+    "question_english": "Statements: Only a few Rivers are Seas. No Sea is an Ocean. All Oceans are Lakes. \nConclusions: I. Some Lakes being Rivers is a possibility. II. No River is an Ocean.",
+    "options": {
+      "A": "केवल निष्कर्ष I अनुसरण करता है",
+      "B": "केवल निष्कर्ष II अनुसरण करता है",
+      "C": "न तो I और न ही II अनुसरण करता है",
+      "D": "I और II दोनों अनुसरण करते हैं"
+    },
+    "correct_option": "A"
+  },
+  {
+    "id": 8,
+    "subject": "Reasoning",
+    "topic": "Coding-Decoding",
+    "question_hindi": "एक निश्चित कूट भाषा में, 'HOSPITAL' को 'JMWOKQYJ' लिखा जाता है। उसी कूट भाषा में 'MEDICINE' को कैसे लिखा जाएगा?",
+    "question_english": "In a certain code language, 'HOSPITAL' is written as 'JMWOKQYJ'. How will 'MEDICINE' be written in that same code language?",
+    "options": {
+      "A": "OGFKAKMC",
+      "B": "OEFHAKNC",
+      "C": "OGFHAKMC",
+      "D": "PEGHAKMC"
+    },
+    "correct_option": "C"
+  },
+  {
+    "id": 9,
+    "subject": "Reasoning",
+    "topic": "Seating Arrangement",
+    "question_hindi": "आठ व्यक्ति A, B, C, D, E, F, G और H एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं (जरूरी नहीं कि इसी क्रम में)। A, B के दायें से तीसरे स्थान पर बैठा है। C, A के बायें से दूसरे स्थान पर बैठा है। E, C का निकटतम पड़ोसी नहीं है। F, H के दायें से दूसरे स्थान पर है जो B का निकटतम पड़ोसी नहीं है। D और G निकटतम पड़ोसी हैं। D के ठीक बायें कौन बैठा है, यदि G, B के निकट नहीं है?",
+    "question_english": "Eight persons A, B, C, D, E, F, G and H are sitting around a circular table facing the centre (not necessarily in the same order). A sits third to the right of B. C sits second to the left of A. E is not an immediate neighbour of C. F sits second to the right of H who is not an immediate neighbour of B. D and G are immediate neighbours. Who sits immediately to the left of D, if G is not adjacent to B?",
+    "options": {
+      "A": "C",
+      "B": "G",
+      "C": "H",
+      "D": "F"
+    },
+    "correct_option": "B"
+  },
+  {
+    "id": 10,
+    "subject": "Reasoning",
+    "topic": "Blood Relation",
+    "question_hindi": "एक परिवार में 7 सदस्य हैं। P, Q का पिता है जिसकी केवल दो संताने हैं। R, S का भाई है जो T की पत्नी है। U, V की माता है जो Q की बहन है। P का R से क्या संबंध है, यदि T, Q का साला/बहनोई है?",
+    "question_english": "There are 7 members in a family. P is the father of Q who has only two children. R is the brother of S who is the wife of T. U is the mother of V who is the sister of Q. How is P related to R, if T is the brother-in-law of Q?",
+    "options": {
+      "A": "दादा (Grandfather)",
+      "B": "नाना (Maternal Grandfather)",
+      "C": "ससुर (Father-in-law)",
+      "D": "पिता (Father)"
+    },
+    "correct_option": "A"
+  }
+]
